@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "03b25431bc0cea50",
+    "type": "split",
+    "children": [
+      {
+        "id": "58ac5cd8d7217c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aee444cddbaf344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-11-11-周六.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "baf039700d9ca62d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a41a81be99c8570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3f7cd8cd706d827",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab47c695c4998eb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6053615f85212d67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "c1428b77591aec38",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0c566fe80e236f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f6c2bbace8f896",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日记/2023-11-11-周六.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2036d03254b28e05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/2023-11-11-周六.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5032864e8ccb2d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c3f8576665ff33c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/2023-11-11-周六.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "e3f7cd8cd706d827",
+  "lastOpenFiles": [
+    "日记/2023-11-11-周六.md",
+    "TODO.md",
+    "library-knowledge.git",
+    "编程开发/中间件/消息队列/Kafka/Kafka.md",
+    "附件/Java并发编程之美 -- 翟陆续薛宾田著 -- 2018 -- 电子工业出版社 -- 9787121349478 -- 984a0599ef8e06179bdeaabf89028819 -- Annas Archive.pdf",
+    "工具库",
+    "附件",
+    "模版/日记模版.md",
+    "未命名.canvas",
+    "模版",
+    "工作记录",
+    "docker.md",
+    "Producer.md",
+    "日记/2023-11-11.md",
+    "日记",
+    "2023-11-11.md",
+    "编程开发/中间件/消息队列/Kafka/Untitled Diagram.svg",
+    "编程开发/中间件/消息队列/Kafka",
+    "编程开发/中间件/消息队列",
+    "编程开发/中间件"
+  ]
+}
