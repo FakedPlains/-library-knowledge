@@ -1,5 +1,7 @@
 {
-  "attachmentFolderPath": "./附件",
+  "attachmentFolderPath": "attachment",
   "trashOption": "local",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/"
 }

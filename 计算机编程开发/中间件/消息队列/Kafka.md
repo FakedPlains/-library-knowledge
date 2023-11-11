@@ -10,7 +10,7 @@
 
 ### 主题（Topic）与分区（Partition）
 
-- **Topic：**生产者将消息发送到特定的主题，消费者通过订阅特定的主题来消费消息
+- **Topic：** 生产者将消息发送到特定的主题，消费者通过订阅特定的主题来消费消息
 - **Partition：**
 
 - 一个 Partition 属于属于单个 Topic，一个 Topic 可以有多个 Partition，同一个 Topic 下的 Partition 可以分布在不同的 Broker 上，即一个 Tpoic 可以横跨多个 Broker
@@ -186,3 +186,5 @@ Consumer Group 订阅 Topic 后，Topic 中的每个 Partition 只能被一个 C
 ## 消费者客户端
 
 # 主题与分区
+
+# 日志存储
