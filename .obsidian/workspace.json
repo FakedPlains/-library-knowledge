@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-11-周六.md",
+                "file": "编程开发/容器化/Docker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-11-周六.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-11-周六.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-11-周六.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -153,6 +151,10 @@
   },
   "active": "e3f7cd8cd706d827",
   "lastOpenFiles": [
+    "编程开发/容器化/Docker.md",
+    "未命名.md",
+    "编程开发/容器化",
+    "工具库/常用软件.md",
     "日记/2023-11-11-周六.md",
     "TODO.md",
     "library-knowledge.git",
@@ -171,7 +173,6 @@
     "2023-11-11.md",
     "编程开发/中间件/消息队列/Kafka/Untitled Diagram.svg",
     "编程开发/中间件/消息队列/Kafka",
-    "编程开发/中间件/消息队列",
-    "编程开发/中间件"
+    "编程开发/中间件/消息队列"
   ]
 }
