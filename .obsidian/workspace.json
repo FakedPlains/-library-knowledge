@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机编程开发/计算机基础/计算机操作系统/磁盘存储.md",
+                "file": "计算机编程开发/软件开发/系统设计/Varint 编码.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机编程开发/计算机基础/计算机操作系统/磁盘存储.md",
+                "file": "计算机编程开发/软件开发/系统设计/Varint 编码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机编程开发/计算机基础/计算机操作系统/磁盘存储.md",
+                "file": "计算机编程开发/软件开发/系统设计/Varint 编码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机编程开发/计算机基础/计算机操作系统/磁盘存储.md"
+                "file": "计算机编程开发/软件开发/系统设计/Varint 编码.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   },
   "active": "0aee444cddbaf344",
   "lastOpenFiles": [
-    "计算机编程开发/软件开发/开发技术/消息队列/Kafka/Kafka 基础.md",
     "计算机编程开发/计算机基础/计算机操作系统/磁盘存储.md",
+    "计算机编程开发/软件开发/系统设计/Varint 编码.md",
+    "计算机编程开发/软件开发/开发技术/消息队列/Kafka/Kafka 基础.md",
     "计算机编程开发/计算机基础/计算机操作系统",
     "TODO.md",
     "未命名.md",
