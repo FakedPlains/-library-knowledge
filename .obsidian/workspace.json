@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机编程开发/中间件/消息队列/Kafka/Kafka 基础.md",
+                "file": "计算机编程开发/软件开发/开发技术/消息队列/Kafka/Kafka 基础.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机编程开发/中间件/消息队列/Kafka/Kafka 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机编程开发/中间件/消息队列/Kafka/Kafka 基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机编程开发/中间件/消息队列/Kafka/Kafka 基础.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -150,34 +148,33 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0aee444cddbaf344",
+  "active": "e3f7cd8cd706d827",
   "lastOpenFiles": [
-    "计算机编程开发/中间件/消息队列/Kafka",
+    "计算机编程开发/软件开发/开发技术/消息队列/Kafka/Kafka 基础.md",
+    "未命名.md",
+    "attachment",
+    "计算机编程开发/软件开发/开发技术",
+    "计算机编程开发/软件开发/系统设计",
+    "计算机编程开发/软件开发",
+    "计算机编程开发/软件开发/开发技术/消息队列/Kafka",
     "日记/2023-11-11-周六.md",
     "TODO.md",
-    "计算机编程开发/中间件/消息队列/Kafka/Kafka 基础.md",
     "Excalidraw/Drawing 2023-11-11 19.28.10.excalidraw.md",
-    "计算机编程开发/编程语言/Java.md",
+    "计算机编程开发/软件开发/开发技术/编程语言/Java.md",
     "计算机编程开发/计算机基础",
-    "计算机编程开发/容器化/Kubernetes.md",
-    "计算机编程开发/编程语言",
-    "计算机编程开发/开发工具/Gradle.md",
-    "计算机编程开发/开发工具/Git.md",
-    "计算机编程开发/开发工具/Maven.md",
-    "计算机编程开发/数据库/Elasticsearch.md",
-    "计算机编程开发/开发工具",
-    "计算机编程开发/数据库/Redis.md",
-    "计算机编程开发/数据库/MySQL.md",
-    "计算机编程开发/容器化/Docker.md",
-    "计算机编程开发/常用框架",
-    "计算机编程开发/数据库",
+    "计算机编程开发/软件开发/开发技术/容器化/Kubernetes.md",
+    "计算机编程开发/软件开发/开发技术/编程语言",
+    "计算机编程开发/软件开发/开发技术/开发工具/Gradle.md",
+    "计算机编程开发/软件开发/开发技术/开发工具/Git.md",
+    "计算机编程开发/软件开发/开发技术/开发工具/Maven.md",
+    "计算机编程开发/软件开发/开发技术/数据库/Elasticsearch.md",
+    "计算机编程开发/软件开发/开发技术/开发工具",
+    "计算机编程开发/软件开发/开发技术/数据库/Redis.md",
+    "计算机编程开发/软件开发/开发技术/数据库/MySQL.md",
+    "计算机编程开发/软件开发/开发技术/容器化/Docker.md",
+    "计算机编程开发/软件开发/开发技术/常用框架",
+    "计算机编程开发/软件开发/开发技术/数据库",
     "工具库/常用软件.md",
-    "Excalidraw",
-    "未命名.md",
-    "计算机编程开发/容器化",
-    "library-knowledge.git",
-    "附件/Java并发编程之美 -- 翟陆续薛宾田著 -- 2018 -- 电子工业出版社 -- 9787121349478 -- 984a0599ef8e06179bdeaabf89028819 -- Annas Archive.pdf",
-    "工具库",
     "模版/日记模版.md",
     "未命名.canvas",
     "docker.md",
