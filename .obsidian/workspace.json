@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机编程开发/软件开发/开发技术/消息队列/Kafka/Kafka 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机编程开发/软件开发/开发技术/消息队列/Kafka/Kafka 基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "计算机编程开发/软件开发/开发技术/消息队列/Kafka/Kafka 基础.md"
               }
             }
           }
@@ -148,17 +150,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e3f7cd8cd706d827",
+  "active": "0aee444cddbaf344",
   "lastOpenFiles": [
-    "计算机编程开发/软件开发/开发技术/消息队列/Kafka/Kafka 基础.md",
+    "TODO.md",
     "未命名.md",
+    "计算机编程开发/软件开发/开发技术/消息队列/Kafka/Kafka 基础.md",
     "attachment",
     "计算机编程开发/软件开发/开发技术",
     "计算机编程开发/软件开发/系统设计",
     "计算机编程开发/软件开发",
     "计算机编程开发/软件开发/开发技术/消息队列/Kafka",
     "日记/2023-11-11-周六.md",
-    "TODO.md",
     "Excalidraw/Drawing 2023-11-11 19.28.10.excalidraw.md",
     "计算机编程开发/软件开发/开发技术/编程语言/Java.md",
     "计算机编程开发/计算机基础",
