@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机编程开发/中间件/消息队列/Kafka.md",
+                "file": "计算机编程开发/中间件/消息队列/Kafka/Kafka 基础.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机编程开发/中间件/消息队列/Kafka.md",
+                "file": "计算机编程开发/中间件/消息队列/Kafka/Kafka 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机编程开发/中间件/消息队列/Kafka.md",
+                "file": "计算机编程开发/中间件/消息队列/Kafka/Kafka 基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机编程开发/中间件/消息队列/Kafka.md"
+                "file": "计算机编程开发/中间件/消息队列/Kafka/Kafka 基础.md"
               }
             }
           }
@@ -152,9 +152,10 @@
   },
   "active": "0aee444cddbaf344",
   "lastOpenFiles": [
+    "计算机编程开发/中间件/消息队列/Kafka",
     "日记/2023-11-11-周六.md",
     "TODO.md",
-    "计算机编程开发/中间件/消息队列/Kafka.md",
+    "计算机编程开发/中间件/消息队列/Kafka/Kafka 基础.md",
     "Excalidraw/Drawing 2023-11-11 19.28.10.excalidraw.md",
     "计算机编程开发/编程语言/Java.md",
     "计算机编程开发/计算机基础",
