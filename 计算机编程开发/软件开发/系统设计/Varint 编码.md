@@ -2,4 +2,4 @@ Varint 编码是一种使用一个或多个字节序列化整数的方法，会�
 
 # 编码原理
 
-varint 编码
+varint 编码中的每个字节的最高位为 msb 位（most significant bit）表示后面的字节是否与该字节表示同一个整数
